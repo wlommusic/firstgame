@@ -1,3 +1,3 @@
 # firstgame
 first python game
-ita guessing game , you vs the computer
+it's guessing game , you vs the computer.
